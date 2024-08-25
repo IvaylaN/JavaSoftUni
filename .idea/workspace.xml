@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="78f3252a-79d9-4ad3-8a1d-41ce20c6092b" name="Changes" comment="changes">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSoftUni.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam/BeerAndChips_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam/CatLife_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam/GiftsFromSanta_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam/MiningRig_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam/_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam/_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex01USDToBGN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex02RadiansToDegrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex03DepositCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex04VacationBooksList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex05SuppliesForSchool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex06Repainting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex07FoodDelivery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex08BasketballEquipment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Ex09FishTank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/MoreEx01TrapeziodArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/MoreEx02TriangleArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/MoreEx03CelsiusToFahrenheit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/MoreEx04VegetableMarket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Task01HelloSoftUni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Task02Nums1To10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Task03RectangleArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Task04InchesToCentimeters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Task05GreetingByName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Task06ConcatenateData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Task07ProjectsCreation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Task08PetShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Task09YardGreening.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex01SumSeconds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex02BonusScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex03TimePls15Minutes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex04ToyShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex05GodzillaVsKong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex06WorldSwimmingRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex07Shopping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Ex08LunchBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Task01ExcellentResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Task02GreaterNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Task03EvenOrOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Task04PasswordGuess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Task05Number100To200.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Task06SpeedInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Task07AreaOfFigures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex01Cinema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex02SummerOutfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex03NewHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Ex04FishingBoat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Task01DayOfWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Task02WeekendOrWorkingDay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Task03AnimalType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Task04PersonalTitles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Task05SmallShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Task06NumberInRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Task07WorkingHours.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Task08CinemaTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Task09FruitOrVegetable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Task10InvalidNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Task11FruitShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson03/Task12TradeCommissions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex01NumbersEndingIn7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex02HalfSumElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex03Histogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex04CleverLily.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex05Salary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex06Oscars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex07TrekkingMania.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Ex08TennisRanklist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/ExampleString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Task01NumbersFrom1To100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Task02NumbersNto1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Task03Numbers1ToNWithStep3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Task04EvenPowersOf2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Task05CharacterSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Task06VowelsSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Task07SumNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Task08NumberSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Task09LeftAndRightSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/Task10OddEvenSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson05/Ex01OldBooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson05/Task01ReadText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson05/Task02Password.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson05/Task03SumNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson05/Task04Sequence2kPlus1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson05/Task05AccountBalance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson05/Task06MaxNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson05/Task07MinNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson05/Task08Graduation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson06/Ex01NumberPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson06/Ex02EqualSumsEvenOddPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson06/Task01Clock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson06/Task02MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson06/Task03Combinations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson06/Task04SumOfTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson06/Task05Travelling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson06/Task06Building.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2jK7Mg3Hz3J1hN5dzLid1xtStOD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Ivayla/Downloads/JavaSofUni",
+    "onboarding.tips.debug.path": "C:/Users/ivayla.slavova/Desktop/Java/JavaSofUni/src/Main.java",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application._06">
+    <configuration name="CatLife_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam.CatLife_03" />
+      <module name="JavaSoftUni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChristmasGifts_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam.ChristmasGifts_05" />
+      <module name="JavaSoftUni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GiftsFromSanta_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam.GiftsFromSanta_04" />
+      <module name="JavaSoftUni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam._05" />
+      <module name="JavaSoftUni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam._06" />
+      <module name="JavaSoftUni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="JavaSoftUni" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="JavaSoftUni" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application._06" />
+        <item itemvalue="Application._05" />
+        <item itemvalue="Application.GiftsFromSanta_04" />
+        <item itemvalue="Application.ChristmasGifts_05" />
+        <item itemvalue="Application.CatLife_03" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78f3252a-79d9-4ad3-8a1d-41ce20c6092b" name="Changes" comment="" />
+      <created>1721123870765</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721123870765</updated>
+    </task>
+    <task id="LOCAL-00001" summary="changes">
+      <created>1724588334179</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724588334179</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson02/Ex04ToyShop.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson04/Ex03Histogram.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Lesson03/Task04PersonalTitles.java</url>
+          <line>4</line>
+          <properties class="Lesson03.Task04PersonalTitles" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
