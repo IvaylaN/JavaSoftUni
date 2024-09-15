@@ -13,8 +13,6 @@ public class ForeignLanguages_P06 {
             case "Spain", "Argentina", "Mexico" -> "Spanish";
             default ->  "unknown";
         };
-
         System.out.println(language);
-
     }
 }
