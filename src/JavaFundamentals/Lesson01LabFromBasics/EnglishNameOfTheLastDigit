@@ -1,5 +1,4 @@
-package Lesson01MoreEx;
-
+package Lesson01LabFromBasics;
 import java.util.Scanner;
 
 public class EnglishNameOfTheLastDigit {
