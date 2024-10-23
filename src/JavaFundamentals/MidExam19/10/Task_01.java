@@ -1,7 +1,7 @@
 package JavaFundamentals.MidExam;
 
 import java.util.Scanner;
-public class Task_02 {
+public class Task_01 {
     public static void main(String[] args) {
             Scanner scanner = new Scanner(System.in);
 
@@ -22,11 +22,12 @@ public class Task_02 {
                 }
                 double profitPerCity = incomePerDay - expensesPerDay;
 
-                System.out.printf("In %s Burger Bus earned %.2f leva.%n", cityName, profitPerCity);
+                System.out.println("Day " + i + ": " + String.format("%.2f", profitPerCity) + " leva.");
 
                 totalProfit += profitPerCity;
             }
-            System.out.printf("Burger Bus total profit: %.2f leva.%n", totalProfit);
+        System.out.println("Burger Bus total income: " + String.format("%.2f", totalProfit) + " leva.");
+
         }
     }
 
