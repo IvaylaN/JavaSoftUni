@@ -1,7 +1,5 @@
 package JavaFundamentals.ListLab;
 
-import com.sun.jdi.IntegerValue;
-
 import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;

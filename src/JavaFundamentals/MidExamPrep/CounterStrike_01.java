@@ -2,13 +2,13 @@ package JavaFundamentals.MidExamPrep;
 
 
 import java.util.Scanner;
-
 public class CounterStrike_01 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         int initialEnergy = Integer.parseInt(scanner.nextLine());
         String command = scanner.nextLine();
+
         boolean noEnoughEnergy = false;
         int countWonBattles = 0;
 
@@ -30,12 +30,12 @@ public class CounterStrike_01 {
             command = scanner.nextLine();
         }
 
-            if (noEnoughEnergy) {
-                System.out.printf("Not enough energy! Game ends with %d won battles and %d energy", countWonBattles, initialEnergy);
-            } else {
-                System.out.printf("Won battles: %d. Energy left: %d", countWonBattles, initialEnergy);
-            }
-
+        if (noEnoughEnergy) {
+            System.out.printf("Not enough energy! Game ends with %d won battles and %d energy", countWonBattles, initialEnergy);
+        } else {
+            System.out.printf("Won battles: %d. Energy left: %d", countWonBattles, initialEnergy);
         }
+
     }
+}
 

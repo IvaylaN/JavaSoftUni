@@ -4,52 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78f3252a-79d9-4ad3-8a1d-41ce20c6092b" name="Changes" comment="changes">
-      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/FromBasicsEx/SortNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/FromBasicsLab/EnglishNameOfTheLastDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/ListEx/ChangeList_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/ListEx/ListOperations_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/ListEx/Train_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/ListLab/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/ListLab/GaussTrick_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/ListLab/ListManipulationBasics_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/ListLab/ListOfProducts_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/ListLab/RemoveNegativesAndReverse_06.java" afterDir="false" />
+    <list default="true" id="78f3252a-79d9-4ad3-8a1d-41ce20c6092b" name="Changes" comment="list lab, ex">
+      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/ArrayLab/DayOfWeek_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/ArrayLab/PrintNumbersInReverseOrder_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/ArrayLab/ReverseAnArrayOfStrings_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/ArrayLab/SumEvenNumbers_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/MiddleExam/BurgerBus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/MiddleExam/ChatLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/MiddleExam/CoffeeLover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/MiddleExam/CookingMasterclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/MiddleExam/DeckOfCards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/MiddleExam/Numbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamMidd/Task_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals/MidExam/Task_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamMidd/Task_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals/MidExam/Task_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamPrep_01/BlackFlag_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals/MidExamPrep/BlackFlag_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamPrep_01/CounterStrike_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals/MidExamPrep/CounterStrike_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamPrep_01/MemoryGame_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals/MidExamPrep/MemoryGame_03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamPrep_01/Numbers_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals/MidExamPrep/Numbers_03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamPrep_01/ShootForTheWin_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals/MidExamPrep/ShootForTheWin_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamPrep_01/ShoppingList_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals/MidExamPrep/ShoppingList_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaFundamentals/Lesson01ExercisesFromBasics/Ages_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals/FromBasicsEx/Ages_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaFundamentals/Lesson01ExercisesFromBasics/Division_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals/FromBasicsEx/Division_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaFundamentals/Lesson01ExercisesFromBasics/Login_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals/FromBasicsEx/Login_05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaFundamentals/Lesson01ExercisesFromBasics/Orders_09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals/FromBasicsEx/Orders_09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaFundamentals/Lesson01ExercisesFromBasics/PadawanEquipment_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals/FromBasicsEx/PadawanEquipment_10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaFundamentals/Lesson01ExercisesFromBasics/PrintAndSum_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals/FromBasicsEx/PrintAndSum_04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaFundamentals/Lesson01ExercisesFromBasics/RageExpense_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals/FromBasicsEx/RageExpense_11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaFundamentals/Lesson01ExercisesFromBasics/SortNumbers" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaFundamentals/Lesson01ExercisesFromBasics/StrongNumber_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals/FromBasicsEx/StrongNumber_06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaFundamentals/Lesson01ExercisesFromBasics/TriangleOfNumbers_08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals/FromBasicsEx/TriangleOfNumbers_08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaFundamentals/Lesson01ExercisesFromBasics/Vacation_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals/FromBasicsEx/Vacation_03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaFundamentals/Lesson01ExercisesFromBasics/VendingMachine_07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals/FromBasicsEx/VendingMachine_07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaFundamentals/Lesson01LabFromBasics/DivisibleBy3_08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals/FromBasicsLab/DivisibleBy3_08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaFundamentals/Lesson01LabFromBasics/EnglishNameOfTheLastDigit" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaFundamentals/Lesson01LabFromBasics/EvenNumber_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals/FromBasicsLab/EvenNumber_11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaFundamentals/Lesson01LabFromBasics/ForeignLanguages_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals/FromBasicsLab/ForeignLanguages_06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaFundamentals/Lesson01LabFromBasics/MonthPrinter_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals/FromBasicsLab/MonthPrinter_05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaFundamentals/Lesson01LabFromBasics/MultiplicationTable_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals/FromBasicsLab/MultiplicationTable_10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaFundamentals/Lesson01LabFromBasics/PassedOrFailed_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals/FromBasicsLab/PassedOrFailed_03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaFundamentals/Lesson01LabFromBasics/Passed_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals/FromBasicsLab/Passed_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaFundamentals/Lesson01LabFromBasics/RefactorSumOfOddNumbers_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals/FromBasicsLab/RefactorSumOfOddNumbers_12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaFundamentals/Lesson01LabFromBasics/StudentInformation_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals/FromBasicsLab/StudentInformation_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaFundamentals/Lesson01LabFromBasics/SumOfOddNumbers_09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals/FromBasicsLab/SumOfOddNumbers_09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaFundamentals/Lesson01LabFromBasics/TheatrePromotions_07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals/FromBasicsLab/TheatrePromotions_07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaFundamentals/Lesson01LabFromBasics/TimeAfter30Minutes_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals/FromBasicsLab/TimeAfter30Minutes_04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaFundamentals/ArrayLab/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals/ArrayLab/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaFundamentals/ListLab/ListManipulationBasics_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals/ListLab/ListManipulationBasics_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaFundamentals/MidExam19/10/Task_01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaFundamentals/MidExamPrep/CounterStrike_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals/MidExamPrep/CounterStrike_01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +39,9 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/JavaFundamentals/ListLab/GaussTrick_02.java" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -89,19 +63,19 @@
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/Ivayla/Downloads/JavaSofUni",
     "onboarding.tips.debug.path": "C:/Users/ivayla.slavova/Desktop/Java/JavaSofUni/src/Main.java",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editing.templates"
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.RefactorSumOfOddNumbers_12">
-    <configuration name="DivisibleBy3_08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaFundamentals.FromBasicsLab.DivisibleBy3_08" />
+  <component name="RunManager" selected="Application.DeckOfCards">
+    <configuration name="ChatLogger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaFundamentals.MiddleExam.ChatLogger" />
       <module name="JavaSoftUni" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaFundamentals.FromBasicsLab.*" />
+          <option name="PATTERN" value="JavaFundamentals.MiddleExam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForeignLanguages_06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaFundamentals.FromBasicsLab.ForeignLanguages_06" />
+    <configuration name="CoffeeLover" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaFundamentals.MiddleExam.CoffeeLover" />
       <module name="JavaSoftUni" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaFundamentals.FromBasicsLab.*" />
+          <option name="PATTERN" value="JavaFundamentals.MiddleExam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MonthPrinter_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaFundamentals.FromBasicsLab.MonthPrinter_05" />
+    <configuration name="CookingMasterclass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaFundamentals.MiddleExam.CookingMasterclass" />
       <module name="JavaSoftUni" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaFundamentals.FromBasicsLab.*" />
+          <option name="PATTERN" value="JavaFundamentals.MiddleExam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiplicationTable_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaFundamentals.FromBasicsLab.MultiplicationTable_10" />
+    <configuration name="DeckOfCards" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaFundamentals.MiddleExam.DeckOfCards" />
       <module name="JavaSoftUni" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaFundamentals.FromBasicsLab.*" />
+          <option name="PATTERN" value="JavaFundamentals.MiddleExam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RefactorSumOfOddNumbers_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaFundamentals.FromBasicsLab.RefactorSumOfOddNumbers_12" />
+    <configuration name="Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaFundamentals.MiddleExam.Numbers" />
       <module name="JavaSoftUni" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaFundamentals.FromBasicsLab.*" />
+          <option name="PATTERN" value="JavaFundamentals.MiddleExam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RefactorSumOfOddNumbers_12" />
-        <item itemvalue="Application.MultiplicationTable_10" />
-        <item itemvalue="Application.DivisibleBy3_08" />
-        <item itemvalue="Application.ForeignLanguages_06" />
-        <item itemvalue="Application.MonthPrinter_05" />
+        <item itemvalue="Application.DeckOfCards" />
+        <item itemvalue="Application.Numbers" />
+        <item itemvalue="Application.CookingMasterclass" />
+        <item itemvalue="Application.ChatLogger" />
+        <item itemvalue="Application.CoffeeLover" />
       </list>
     </recent_temporary>
   </component>
@@ -201,12 +175,21 @@
       <option name="project" value="LOCAL" />
       <updated>1726322608484</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="list lab, ex">
+      <option name="closed" value="true" />
+      <created>1729592698603</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729592698603</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes" />
+    <MESSAGE value="list lab, ex" />
+    <option name="LAST_COMMIT_MESSAGE" value="list lab, ex" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

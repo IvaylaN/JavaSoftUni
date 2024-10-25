@@ -2,6 +2,7 @@ package JavaFundamentals.ArrayLab;
 
 import java.util.Scanner;
 import java.util.Arrays;
+
 public class Demo {
     public static void main(String[] args) {
 
@@ -78,7 +79,7 @@ public class Demo {
         counts[3] = Integer.parseInt(scanner.nextLine());
 
 
-        //Вариант 4 за запълване на масив
+        //Вариант 3 за запълване на масив
         int n = Integer.parseInt(scanner.nextLine());
 
         int[] arr = new int[n];
