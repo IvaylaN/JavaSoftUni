@@ -4,23 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78f3252a-79d9-4ad3-8a1d-41ce20c6092b" name="Changes" comment="list lab, ex">
-      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/ArrayLab/DayOfWeek_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/ArrayLab/PrintNumbersInReverseOrder_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/ArrayLab/ReverseAnArrayOfStrings_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/ArrayLab/SumEvenNumbers_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/MiddleExam/BurgerBus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/MiddleExam/ChatLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/MiddleExam/CoffeeLover.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/MiddleExam/CookingMasterclass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/MiddleExam/DeckOfCards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/MiddleExam/Numbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="78f3252a-79d9-4ad3-8a1d-41ce20c6092b" name="Changes" comment="exam task">
+      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/Array/Ex/ArrayModifier_09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/Array/Ex/CommonElements_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/Array/Ex/ZigZagArrays_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/MiddleExam/Problem1ExperienceGaining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/MiddleExam/Problem1JourneyToTheLegendaryArtifact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/MiddleExam/Problem1QuestInTheWoods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/MiddleExam/Problem1TheBiscuitFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/MiddleExam/Problem2FriendListMaintenance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/MiddleExam/Problem2RobotsAdventure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/MiddleExam/Problem2SpaceTravel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/MiddleExam/Problem2TaxCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/MiddleExam/Problem3Greenhouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/MiddleExam/Problem3MusicPlaylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/MiddleExam/Problem3PhoneShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/MiddleExam/Problem3SchoolLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/MiddleExam/Problem3TheAngryCat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaFundamentals/ArrayLab/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals/ArrayLab/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaFundamentals/ListLab/ListManipulationBasics_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals/ListLab/ListManipulationBasics_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaFundamentals/MidExam19/10/Task_01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaFundamentals/MidExamPrep/CounterStrike_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals/MidExamPrep/CounterStrike_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaFundamentals/MiddleExam/BurgerBus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals/MiddleExam/Problem1BurgerBus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaFundamentals/MiddleExam/ChatLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals/MiddleExam/Problem3ChatLogger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaFundamentals/MiddleExam/CoffeeLover.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals/MiddleExam/Problem2CoffeeLover.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaFundamentals/MiddleExam/CookingMasterclass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals/MiddleExam/Problem1CookingMasterclass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaFundamentals/MiddleExam/DeckOfCards.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals/MiddleExam/Problem3DeckOfCards.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaFundamentals/MiddleExam/Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals/MiddleExam/Problem2Numbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,9 +76,9 @@
     "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DeckOfCards">
-    <configuration name="ChatLogger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaFundamentals.MiddleExam.ChatLogger" />
+  <component name="RunManager" selected="Application.Problem1TheBiscuitFactory">
+    <configuration name="Problem1QuestInTheWoods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaFundamentals.MiddleExam.Problem1QuestInTheWoods" />
       <module name="JavaSoftUni" />
       <extension name="coverage">
         <pattern>
@@ -83,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CoffeeLover" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaFundamentals.MiddleExam.CoffeeLover" />
+    <configuration name="Problem1TheBiscuitFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaFundamentals.MiddleExam.Problem1TheBiscuitFactory" />
       <module name="JavaSoftUni" />
       <extension name="coverage">
         <pattern>
@@ -96,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CookingMasterclass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaFundamentals.MiddleExam.CookingMasterclass" />
+    <configuration name="Problem3PhoneShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaFundamentals.MiddleExam.Problem3PhoneShop" />
       <module name="JavaSoftUni" />
       <extension name="coverage">
         <pattern>
@@ -109,8 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeckOfCards" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaFundamentals.MiddleExam.DeckOfCards" />
+    <configuration name="Problem3SchoolLibrary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaFundamentals.MiddleExam.Problem3SchoolLibrary" />
       <module name="JavaSoftUni" />
       <extension name="coverage">
         <pattern>
@@ -122,8 +129,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaFundamentals.MiddleExam.Numbers" />
+    <configuration name="Problem3TheAngryCat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaFundamentals.MiddleExam.Problem3TheAngryCat" />
       <module name="JavaSoftUni" />
       <extension name="coverage">
         <pattern>
@@ -137,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DeckOfCards" />
-        <item itemvalue="Application.Numbers" />
-        <item itemvalue="Application.CookingMasterclass" />
-        <item itemvalue="Application.ChatLogger" />
-        <item itemvalue="Application.CoffeeLover" />
+        <item itemvalue="Application.Problem1TheBiscuitFactory" />
+        <item itemvalue="Application.Problem1QuestInTheWoods" />
+        <item itemvalue="Application.Problem3TheAngryCat" />
+        <item itemvalue="Application.Problem3SchoolLibrary" />
+        <item itemvalue="Application.Problem3PhoneShop" />
       </list>
     </recent_temporary>
   </component>
@@ -183,13 +190,22 @@
       <option name="project" value="LOCAL" />
       <updated>1729592698603</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="exam task">
+      <option name="closed" value="true" />
+      <created>1729837556419</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729837556419</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="changes" />
     <MESSAGE value="list lab, ex" />
-    <option name="LAST_COMMIT_MESSAGE" value="list lab, ex" />
+    <MESSAGE value="exam task" />
+    <option name="LAST_COMMIT_MESSAGE" value="exam task" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

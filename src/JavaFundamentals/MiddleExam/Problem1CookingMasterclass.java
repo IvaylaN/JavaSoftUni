@@ -2,7 +2,7 @@ package JavaFundamentals.MiddleExam;
 
 import java.util.Scanner;
 
-public class CookingMasterclass {
+public class Problem1CookingMasterclass {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

@@ -2,7 +2,7 @@ package JavaFundamentals.MiddleExam;
 
 import java.util.Scanner;
 
-public class BurgerBus {
+public class Problem1BurgerBus {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
