@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78f3252a-79d9-4ad3-8a1d-41ce20c6092b" name="Changes" comment="exam 27.10">
-      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/FinalExam01122024/Task01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/FinalExam01122024/Task02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/FinalExam01122024/Task03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/FinalExam01122024/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaFundamentals/FinalExam01122024/task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Task01BrowserHistory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MiddExam27102024/Task01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals/MiddExam27102024/Task01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MiddExam27102024/Task02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals/MiddExam27102024/Task02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MiddExam27102024/Task03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaFundamentals/MiddExam27102024/Task03.java" afterDir="false" />
+    <list default="true" id="78f3252a-79d9-4ad3-8a1d-41ce20c6092b" name="Changes" comment="lesson 1">
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Task04MatchingBrackets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson01/Task05PrinterQueue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,11 +16,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -43,6 +41,9 @@
     "accountId": "cc26168b-2561-4fa9-b4ca-2a8b7da6f83f"
   }
 }]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -57,12 +58,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Task01BrowserHistory.executor": "Run",
+    "Application.Task05PrinterQueue.executor": "Run",
     "Application.task.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Ivayla",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/Ivayla/Desktop/QA Skillo/Skillo Homework/Final-Project-Automation-course",
     "onboarding.tips.debug.path": "C:/Users/ivayla.slavova/Desktop/Java/JavaSofUni/src/Main.java",
@@ -77,20 +79,7 @@
       <recent name="C:\Users\Ivayla\Desktop\JavaSoftUni\src\JavaFundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task01BrowserHistory">
-    <configuration name="FinalExam01122024.Task01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FinalExam01122024.Task01" />
-      <module name="JavaSoftUni" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="FinalExam01122024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Task05PrinterQueue">
     <configuration name="FinalExam01122024.Task02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FinalExam01122024.Task02" />
       <module name="JavaSoftUni" />
@@ -130,6 +119,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task05PrinterQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson01.Task05PrinterQueue" />
+      <module name="JavaSoftUni" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FinalExam01122024.task" />
       <module name="JavaSoftUni" />
@@ -145,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task05PrinterQueue" />
         <item itemvalue="Application.Task01BrowserHistory" />
         <item itemvalue="Application.task" />
         <item itemvalue="Application.FinalExam01122024.Task02" />
         <item itemvalue="Application.FinalExam01122024.Task03" />
-        <item itemvalue="Application.FinalExam01122024.Task01" />
       </list>
     </recent_temporary>
   </component>
@@ -191,13 +193,22 @@
       <option name="project" value="LOCAL" />
       <updated>1730017307809</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="lesson 1">
+      <option name="closed" value="true" />
+      <created>1748159432134</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1748159432134</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="changes" />
     <MESSAGE value="exam 27.10" />
-    <option name="LAST_COMMIT_MESSAGE" value="exam 27.10" />
+    <MESSAGE value="lesson 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
