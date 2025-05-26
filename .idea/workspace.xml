@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78f3252a-79d9-4ad3-8a1d-41ce20c6092b" name="Changes" comment="lesson 1">
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Task04MatchingBrackets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson01/Task05PrinterQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Task01CompareMatrices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Task02PositionsOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Task03IntersectionOfTwoMatrices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Task04SumMatrixElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson02/Task06PrintDiagonalsOfSquareMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,23 +28,23 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Ivayla" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "IvaylaN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;IvaylaN&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/IvaylaN/JavaSoftUni.git",
-    "accountId": "cc26168b-2561-4fa9-b4ca-2a8b7da6f83f"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/IvaylaN/JavaSoftUni.git&quot;,
+    &quot;accountId&quot;: &quot;cc26168b-2561-4fa9-b4ca-2a8b7da6f83f&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -64,7 +68,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "Ivayla",
+    "git-widget-placeholder": "Ivayla__lesson1",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/Ivayla/Desktop/QA Skillo/Skillo Homework/Final-Project-Automation-course",
     "onboarding.tips.debug.path": "C:/Users/ivayla.slavova/Desktop/Java/JavaSofUni/src/Main.java",
@@ -150,8 +154,8 @@
         <item itemvalue="Application.Task05PrinterQueue" />
         <item itemvalue="Application.Task01BrowserHistory" />
         <item itemvalue="Application.task" />
-        <item itemvalue="Application.FinalExam01122024.Task02" />
         <item itemvalue="Application.FinalExam01122024.Task03" />
+        <item itemvalue="Application.FinalExam01122024.Task02" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +230,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/JavaBasics/Lesson03/Task04PersonalTitles.java</url>
           <line>4</line>
-          <properties class="JavaBasics.Lesson03.Task04PersonalTitles">
+          <properties class="JavaBasics.Lesson03.Task04PersonalTitles" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
